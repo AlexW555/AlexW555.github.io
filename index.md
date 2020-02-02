@@ -2,13 +2,13 @@
 
 ---
 
-### Category Name 1 
+### Recent Projectd 
 
 [iPad Posture Visualisation Tool - 2019](/sample_page)
 <img src="images/thumbnail-2.png?raw=true"/>
 
 ---
-[Java Blackjack Simulator - 2020 ](/pdf/sample_presentation.pdf)
+[Java Blackjack Simulator - 2020 ](https://github.com/AlexW555/Blackjack-simulator)
 <img src="images/blackjack.jpg?raw=true"/>
 
 ---
