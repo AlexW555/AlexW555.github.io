@@ -2,7 +2,7 @@
 
 ---
 
-### Recent Projectd 
+### Recent Projects
 
 [iPad Posture Visualisation Tool - 2019](/sample_page)
 <img src="images/thumbnail-2.png?raw=true"/>
