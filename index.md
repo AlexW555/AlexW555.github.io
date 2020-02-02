@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Ipad Posture Visualisation Tool - 2019](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[iPad Posture Visualisation Tool - 2019](/sample_page)
+<img src="images/thumbnail.png?raw=true"/>
 
 ---
 [Java Blackjack Simulator - 2020 ](/pdf/sample_presentation.pdf)
