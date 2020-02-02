@@ -4,15 +4,15 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Ipad Posture Visualisation Tool - 2019](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Java Blackjack Simulator - 2020 ](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Swift Based Cookie Clicker - 2020](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
