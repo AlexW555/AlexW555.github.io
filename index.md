@@ -15,7 +15,7 @@
 
 ---
 [iOS Programmer Clicker Game  - 2020](https://github.com/AlexW555/Programmer-Clicker)
-<br>A iOS based clicker game project for mobile devices. The objective of the game is to tap the programmer so that he can write lines of code. After a number of lines of code the user can use these to submit projects for in game money. This in turn can be spent on what programmers usually spend their money on... stickers for their laptops and cool random items for their desk. There are also bonuses to help along the way such as interns, Coffee boosts and more.
+<br>A iOS based clicker game project for mobile devices. The objective of the game is to tap the programmer so that he can write lines of code. After a number of lines of code the user can use these to submit projects for in game money. This in turn can be spent on what programmers usually spend their money on... stickers for their laptops and cool random items for their desk. There are also bonuses to help along the way such as interns, Coffee boosts and more. Watch a demo [https://youtu.be/D5IoRTxHiFs](here)
 <img src="images/swift.png?raw=true"/>
 
 ---
