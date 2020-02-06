@@ -13,7 +13,7 @@
 <img src="images/java.png?raw=true"/>
 
 ---
-[Swift Based Cookie Clicker - 2020](https://github.com/AlexW555/Programmer-Clicker)
+[iOS Programmer Clicker Game  - 2020](https://github.com/AlexW555/Programmer-Clicker)
 <img src="images/swift.png?raw=true"/>
 
 ---
