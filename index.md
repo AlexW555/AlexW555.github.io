@@ -5,7 +5,7 @@
 ### Recent Projects
 
 [iPad Posture Visualisation Tool - 2019](/sample_page)
-<img src="images/thumbnail-2.png?raw=true"/>
+<img src="images/app.png?raw=true"/>
 
 ---
 [Java Blackjack Simulator - 2020 ](https://github.com/AlexW555/Blackjack-simulator)
