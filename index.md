@@ -4,7 +4,7 @@
 
 ### Recent Projects
 
-[iPad Posture Visualisation Tool - 2019](/sample_page)
+[iPad Posture Visualisation Tool - 2019](pdf/Dissertation.pdf)
 <img src="images/app.png?raw=true"/>
 
 ---
