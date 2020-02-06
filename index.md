@@ -5,7 +5,7 @@
 ### Recent Projects
 
 [iPad Posture Visualisation Tool - 2019](pdf/Dissertation.pdf)
-An iPad Application developed for my final year disseration project. The application tackles the modern day issues related to explaining posture issues to patients. Currently in use within Morrison Hospital, Swansea. 
+<br>An iPad Application developed for my final year disseration project. The application tackles the modern day issues related to explaining posture issues to patients. Currently in use within Morrison Hospital, Swansea. 
 <img src="images/app.png?raw=true"/>
 
 ---
