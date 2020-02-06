@@ -13,11 +13,11 @@
 
 ---
 [Swift Based Cookie Clicker - 2020](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/swift.png?raw=true"/>
 
 ---
 
-### Category Name 2
+### Project Archive
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
