@@ -9,7 +9,7 @@
 
 ---
 [Java Blackjack Simulator - 2020 ](https://github.com/AlexW555/Blackjack-simulator)
-<img src="images/blackjack.jpg?raw=true"/>
+<img src="images/java.png?raw=true"/>
 
 ---
 [Swift Based Cookie Clicker - 2020](http://example.com/)
